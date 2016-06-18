@@ -1,0 +1,23 @@
+#gameCanvas {border-style:solid;border-width:thick;}
+p {font-size: 40;}
+.page1Container {width:768px; height: 1024px;padding: 25px 100px;}
+.page2Container {width:768px; height: 1024px;padding: 25px 100px;}
+.gameHeaderContainer {
+	width:600px;
+	border-bottom: 2px solid;
+}
+
+.gameHeaderContainer h1 {
+	display: inline;
+	width: 800;
+	height:100px;
+	border:2px solid;
+	padding:10px;
+	background:#dddddd;
+	border-top-right-radius:2em;
+}
+a.gameHeaderContainer {display: inline;}
+.gameContainer {padding: 100px 100px;}
+p.gameContainer {display: inline; padding:30px; margin-left: 20px; border:2px solid;}
+canvas.gameContainer {display:inline;}
+.rulesContainer {}
